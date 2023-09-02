@@ -1,0 +1,17 @@
+figure{
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: url(../img/너바나\(커트코베인\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    // background-attachment: fixed;
+    position: relative;
+    // background-position: 0px 100px;
+    p{
+        position: absolute;
+        top: 55%;
+        left: 63%;
+        font: bold 24px/2 "Black And White Picture";
+        color: #555;
+    }
+}
